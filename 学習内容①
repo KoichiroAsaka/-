@@ -1,0 +1,13 @@
+# 9/12 学習内容
+- ウェブサイトのトップページを学習
+- HTMLとCSSでclassの名前が異なると反映されないことを学んだ
+　## コード例
+　```html
+　　<div class="main-visual">
+ ```CSS
+   <div class="main-title">
+ 上記例の場合は反映されない。
+
+- id と class の違いを整理
+　　id：topなどのページ内で一意の要素を対象。
+　　class:btn,containerなどの複数で使う要素を対象。
