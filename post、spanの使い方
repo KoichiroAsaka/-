@@ -1,16 +1,16 @@
 【9/13】
-　①postの使い方
-　　記事でよく使われるclassの要素。箱を作るイメージ。
-　　例）○HTML
+　#postの使い方
+　 記事でよく使われるclassの要素。箱を作るイメージ。
+　 -例）○HTML
 　　<div class="post">
-  <div class="post-date">…</div>
-  <h2 class="post-title">…</h2>
-　</div>
+   <div class="post-date">…</div>
+   <h2 class="post-title">…</h2>
+　 </div>
 　→上記では、postという箱の中のpost-date,post-titleといった小さな箱。
 
-　②spanの使い方
+　#spanの使い方
 　　意味は持たないタグだが、特定の部分を装飾する際に使う。インライン要素。
-　　例）○HTML
+　-例）○HTML
 　　　<div class="post-date">
   　　13<br><span>Sep</span>
 　　　</div>
